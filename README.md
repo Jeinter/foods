@@ -78,6 +78,3 @@
 - TELEGRAM_TOKEN - токен телеграм-бота
 - DOMEN_NAME - доменное имя вашего сайта
 
-### Пример работы сайта можно посмтореть по ссылке https://foodgrammi.sytes.net
-### Admin - username: admin password: admin
-
